@@ -12,9 +12,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", 
 		Yo.html = Yo.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mi trabajo", "Mi trabajo", "{228521D8-645E-4A77-85C4-EC123115B46A}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{228521D8-645E-4A77-85C4-EC123115B46A} = {12BD3E80-58DE-422A-8FF2-537D3717EF1C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {380D629B-B62F-4799-84E1-33C459694E4A}
