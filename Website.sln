@@ -5,8 +5,9 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{12BD3E80-58DE-422A-8FF2-537D3717EF1C}"
 	ProjectSection(SolutionItems) = preProject
-		Index.html = Index.html
 		About me.html = About me.html
+		HTMLPage1.html = HTMLPage1.html
+		Index.html = Index.html
 		Yo.html = Yo.html
 	EndProjectSection
 EndProject
