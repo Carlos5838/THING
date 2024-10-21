@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|C:\\Web\\THING\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|solutionrelative:Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|C:\\Web\\THING\\About me.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|solutionrelative:About me.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About me.html",
+              "DocumentMoniker": "C:\\Web\\THING\\About me.html",
+              "RelativeDocumentMoniker": "About me.html",
+              "ToolTip": "C:\\Web\\THING\\About me.html",
+              "RelativeToolTip": "About me.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-21T21:57:05.665Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Web\\THING\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-10-21T21:42:10.087Z",
               "EditorCaption": ""

@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", 
 		HTMLPage1.html = HTMLPage1.html
 		Index.html = Index.html
 		Yo.html = Yo.html
+		layout.html = layout.html
+		Mi trabajo.html = Mi trabajo.html
 	EndProjectSection
 EndProject
 Global
