@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mi trabajo", "Mi trabajo", "{228521D8-645E-4A77-85C4-EC123115B46A}"
+	ProjectSection(SolutionItems) = preProject
+		Primera.html = Primera.html
+		Ahorcado.cpp = Ahorcado.cpp
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution

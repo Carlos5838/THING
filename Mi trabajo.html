@@ -39,6 +39,11 @@
             max-width: auto;
             height: 1000px;
         }
+        .thumbnail {
+            width: 100%; /* Asegura que las miniaturas se ajusten al contenedor */
+            height: auto; /* Mantiene la relación de aspecto */
+            margin-bottom: 15px;
+
     </style>
 
 </head>
@@ -77,6 +82,165 @@
                 </form>
             </div>
         </div>
+    </nav>
+
+    <div class="container fluid mt-5">
+        <h1 class="text-center mb-4">Trabajo en clase</h1>
+        <div class="row g-5">
+            <!-- Contenedor 1 -->
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <iframe src="https://iberopuebla-my.sharepoint.com/personal/200711_iberopuebla_mx/_layouts/15/Doc.aspx?sourcedoc={7b096a25-8480-481e-88eb-78f1b3440ddc}&amp;action=embedview" height="615px" frameborder="0" allowfullscreen>Esto es un documento de <a target="_blank" href="https://office.com">Microsoft Office</a> incrustado con tecnología de <a target="_blank" href="https://office.com/webapps">Office</a>."
+                            
+                    </iframe>
+                    <div class="card-body">
+                        <h3 class="text-center mb-2">Investigación de Stack Overflow</h3>
+                    </div>
+                </div>
+            </div>
+            <!-- Contenedor 2 -->
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <iframe src="Primera.html" title="Página HTML" height="610px"></iframe>
+                    <div class="card-body">
+                        <h3 class="text-center mb-2">Mi primera página web</h3>
+                        <a href="Primera.html"><button class="btn btn-primary">Mirar pagina</button></a>
+                    </div>
+                </div>
+            </div>
+            <!-- Contenedor 3 -->
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <img src="https://via.placeholder.com/300" class="card-img-top img-fluid thumbnail" alt="Sub_Imagen_1">
+                        </div>
+                        <div class="col-md-6">
+                            <img src="https://via.placeholder.com/300" class="card-img-top img-fluid thumbnail" alt="Sub_Imagen_2">
+                        </div>
+                        <div class="col-md-12">
+                            <img src="https://via.placeholder.com/300" class="card-img-top img-fluid thumbnail" alt="Sub_Imagen_3">
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <h3 class="text-center mb-2">Primer acercamiento a Git y a Github</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row g-5">
+            <!-- Contenedor 4 -->
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="https://via.placeholder.com/300" class="card-img-top img-fluid thumbnail" alt="Sub_Imagen_1">
+                        </div>
+                        <div class="col-md-6">
+                            <img src="https://via.placeholder.com/300" class="card-img-top img-fluid thumbnail" alt="Sub_Imagen_2">
+                        </div>
+                        <div class="col-md-6">
+                            <img src="https://via.placeholder.com/300" class="card-img-top img-fluid thumbnail" alt="Sub_Imagen_3">
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <h3 class="text-center mb-2">Uso de lentes de RV</h3>
+                    </div>
+                </div>
+            </div>
+            <!-- Contenedor 5 -->
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <iframe src="https://www.jdoodle.com/ia/1nws" title="Ejecutar C++" height="575px"></iframe>
+                    <div class="card-body">
+                        <h3 class="text-center mb-2">Codigo de ahorcado en C++</h3>
+                        <a id="downloadBtn"><button class="btn btn-primary">Descargar codigo en C++</button></a>
+
+                        <!-- Realmente no se como funciona esto -->
+                        <script>
+                            document.getElementById('downloadBtn').addEventListener('click', function () {
+                                const contenido = 'Este es el contenido del archivo que se descargará.';
+                                const blob = new Blob([contenido], { type: 'text/plain' });
+                                const url = URL.createObjectURL(blob);
+
+                                const a = document.createElement('a');
+                                a.href = url;
+                                a.download = "Ahorcado.cpp"; // Nombre del archivo a descargar
+                                document.body.appendChild(a);
+                                a.click(); // Simula un clic en el enlace para descargar
+                                document.body.removeChild(a);
+                                URL.revokeObjectURL(url); // Limpia la URL del objeto
+                            });
+                        </script>
+
+                    </div>
+                </div>
+            </div>
+            <!-- Contenedor 6 -->
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <iframe src="https://www.jdoodle.com/ia/1nxo" title="Ejecutar Python" height="575px"></iframe>
+                    <div class="card-body">
+                        <h3 class="text-center mb-2">Codigo de ahorcado en Python</h3>
+                        <a id="downloadBtn"><button class="btn btn-primary">Descargar codigo en Python</button></a>
+
+                        <!-- Realmente no se como funciona esto -->
+                        <script>
+                            document.getElementById('downloadBtn').addEventListener('click', function () {
+                                const contenido = 'Este es el contenido del archivo que se descargará.';
+                                const blob = new Blob([contenido], { type: 'text/plain' });
+                                const url = URL.createObjectURL(blob);
+
+                                const a = document.createElement('a');
+                                a.href = url;
+                                a.download = "Ahorcado.cpp"; // Nombre del archivo a descargar
+                                document.body.appendChild(a);
+                                a.click(); // Simula un clic en el enlace para descargar
+                                document.body.removeChild(a);
+                                URL.revokeObjectURL(url); // Limpia la URL del objeto
+                            });
+                        </script>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row g-5">
+            <!-- Contenedor 7 -->
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <img src="https://via.placeholder.com/300" class="card-img-top img-fluid" alt="Imagen 7">
+                    <div class="card-body">
+                        <h3 class="text-center mb-2">Investigación de Stack Overflow</h3>
+                        <button class="btn btn-primary">Botón 1</button>
+                        <button class="btn btn-secondary">Botón 2</button>
+                    </div>
+                </div>
+            </div>
+            <!-- Contenedor 8 -->
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <img src="https://via.placeholder.com/300" class="card-img-top img-fluid" alt="Imagen 8">
+                    <div class="card-body">
+                        <h3 class="text-center mb-2">Investigación de Stack Overflow</h3>
+                        <button class="btn btn-primary">Botón 1</button>
+                        <button class="btn btn-secondary">Botón 2</button>
+                    </div>
+                </div>
+            </div>
+            <!-- Contenedor 9 -->
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <img src="https://via.placeholder.com/300" class="card-img-top img-fluid" alt="Imagen 9">
+                    <div class="card-body">
+                        <h3 class="text-center mb-2">Investigación de Stack Overflow</h3>
+                        <button class="btn btn-primary">Botón 1</button>
+                        <button class="btn btn-secondary">Botón 2</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 </body>
 </html>

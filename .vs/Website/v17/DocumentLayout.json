@@ -1,21 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Web\\THING\\",
+  "WorkspaceRootPath": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|C:\\Web\\THING\\About me.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|solutionrelative:About me.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|C:\\Web\\THING\\Mi trabajo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|C:\\Users\\Carlos\\Desktop\\Web\\THING\\Mi trabajo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|solutionrelative:Mi trabajo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|C:\\Web\\THING\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{228521D8-645E-4A77-85C4-EC123115B46A}|Mi trabajo{228521D8-645E-4A77-85C4-EC123115B46A}|C:\\Users\\Carlos\\Desktop\\Web\\THING\\Ahorcado.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{228521D8-645E-4A77-85C4-EC123115B46A}|Mi trabajo{228521D8-645E-4A77-85C4-EC123115B46A}|solutionrelative:Ahorcado.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228521D8-645E-4A77-85C4-EC123115B46A}|Mi trabajo{228521D8-645E-4A77-85C4-EC123115B46A}|C:\\Users\\Carlos\\Desktop\\Web\\THING\\Primera.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228521D8-645E-4A77-85C4-EC123115B46A}|Mi trabajo{228521D8-645E-4A77-85C4-EC123115B46A}|solutionrelative:Primera.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|C:\\Users\\Carlos\\Desktop\\Web\\THING\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|solutionrelative:layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|C:\\Web\\THING\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|C:\\Users\\Carlos\\Desktop\\Web\\THING\\About me.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|solutionrelative:About me.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|C:\\Users\\Carlos\\Desktop\\Web\\THING\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|NewFolder1{12BD3E80-58DE-422A-8FF2-537D3717EF1C}|solutionrelative:Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -26,40 +34,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "layout.html",
-              "DocumentMoniker": "C:\\Web\\THING\\layout.html",
-              "RelativeDocumentMoniker": "layout.html",
-              "ToolTip": "C:\\Web\\THING\\layout.html",
-              "RelativeToolTip": "layout.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-21T22:12:40.061Z"
+              "DocumentIndex": 1,
+              "Title": "Ahorcado.cpp",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\Ahorcado.cpp",
+              "RelativeDocumentMoniker": "Ahorcado.cpp",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\Ahorcado.cpp",
+              "RelativeToolTip": "Ahorcado.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T03:03:15.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Primera.html",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\Primera.html",
+              "RelativeDocumentMoniker": "Primera.html",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\Primera.html",
+              "RelativeToolTip": "Primera.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-24T02:12:30.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "layout.html",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\layout.html",
+              "RelativeDocumentMoniker": "layout.html",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\layout.html",
+              "RelativeToolTip": "layout.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-21T22:12:40.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Mi trabajo.html",
-              "DocumentMoniker": "C:\\Web\\THING\\Mi trabajo.html",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\Mi trabajo.html",
               "RelativeDocumentMoniker": "Mi trabajo.html",
-              "ToolTip": "C:\\Web\\THING\\Mi trabajo.html",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\Mi trabajo.html",
               "RelativeToolTip": "Mi trabajo.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAywGEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-10-21T22:09:47.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "About me.html",
-              "DocumentMoniker": "C:\\Web\\THING\\About me.html",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\About me.html",
               "RelativeDocumentMoniker": "About me.html",
-              "ToolTip": "C:\\Web\\THING\\About me.html",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\About me.html",
               "RelativeToolTip": "About me.html",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAABsAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -68,16 +103,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.html",
-              "DocumentMoniker": "C:\\Web\\THING\\index.html",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\index.html",
               "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Web\\THING\\index.html",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\Web\\THING\\index.html",
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-21T21:42:10.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T21:42:10.087Z"
             }
           ]
         }
