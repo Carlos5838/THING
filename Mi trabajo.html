@@ -179,14 +179,14 @@
             <!-- Contenedor 6 -->
             <div class="col-md-4 mb-4">
                 <div class="card text-center">
-                    <iframe src="https://www.jdoodle.com/ia/1nxo" title="Ejecutar Python" height="542px"></iframe>
+                    <iframe src="https://www.jdoodle.com/ia/1nxL" title="Ejecutar Python" height="542px"></iframe>
                     <div class="card-body">
                         <h3 class="text-center mb-2">Codigo de ahorcado en Python</h3>
-                        <a id="downloadBtn"><button class="btn btn-primary">Descargar codigo en Python</button></a>
+                        <a id="downloadBtn2"><button class="btn btn-primary">Descargar codigo en Python</button></a>
 
                         <!-- Realmente no se como funciona esto -->
                         <script>
-                            document.getElementById('downloadBtn').addEventListener('click', function () {
+                            document.getElementById('downloadBtn2').addEventListener('click', function () {
                                 const contenido = 'Este es el contenido del archivo que se descargará.';
                                 const blob = new Blob([contenido], { type: 'text/plain' });
                                 const url = URL.createObjectURL(blob);
@@ -209,22 +209,54 @@
             <!-- Contenedor 7 -->
             <div class="col-md-4 mb-4">
                 <div class="card text-center">
-                    <img src="https://via.placeholder.com/300" class="card-img-top img-fluid" alt="Imagen 7">
+                    <iframe src="https://iberopuebla-my.sharepoint.com/personal/200711_iberopuebla_mx/_layouts/15/Doc.aspx?sourcedoc={debd1126-a860-49be-a9c6-69e874737688}&amp;action=embedview" height="615px" frameborder="0">Esto es un documento de <a target="_blank" href="https://office.com">Microsoft Office</a> incrustado con tecnología de <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
                     <div class="card-body">
-                        <h3 class="text-center mb-2">Investigación de Stack Overflow</h3>
-                        <button class="btn btn-primary">Botón 1</button>
-                        <button class="btn btn-secondary">Botón 2</button>
+                        <h3 class="text-center mb-2">Investigación de los lenguajes de programas</h3>
                     </div>
                 </div>
             </div>
             <!-- Contenedor 8 -->
             <div class="col-md-4 mb-4">
                 <div class="card text-center">
-                    <img src="https://via.placeholder.com/300" class="card-img-top img-fluid" alt="Imagen 8">
+                    <div class="sketchfab-embed-wrapper"> <iframe height="542px" title="Rei Chiquita" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/b5ef324f73ff477c9cd3f501b07ca8a7/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/rei-chiquita-b5ef324f73ff477c9cd3f501b07ca8a7?utm_medium=embed&utm_campaign=share-popup&utm_content=b5ef324f73ff477c9cd3f501b07ca8a7" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Rei Chiquita </a> by <a href="https://sketchfab.com/Carlos5838?utm_medium=embed&utm_campaign=share-popup&utm_content=b5ef324f73ff477c9cd3f501b07ca8a7" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Carlos5838 </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=b5ef324f73ff477c9cd3f501b07ca8a7" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
                     <div class="card-body">
-                        <h3 class="text-center mb-2">Investigación de Stack Overflow</h3>
-                        <button class="btn btn-primary">Botón 1</button>
-                        <button class="btn btn-secondary">Botón 2</button>
+                        <h3 class="text-center mb-2">Escaneo de objeto 3D con celular</h3>
+                        <a id="downloadBtn3"><button class="btn btn-primary">Descargar STL</button></a>
+
+                        <!-- Realmente no se como funciona esto -->
+                        <script>
+                            document.getElementById('downloadBtn3').addEventListener('click', function () {
+                                const contenido = 'Este es el contenido del archivo que se descargará.';
+                                const blob = new Blob([contenido], { type: 'text/plain' });
+                                const url = URL.createObjectURL(blob);
+
+                                const a = document.createElement('a');
+                                a.href = url;
+                                a.download = ""; // Nombre del archivo a descargar
+                                document.body.appendChild(a);
+                                a.click(); // Simula un clic en el enlace para descargar
+                                document.body.removeChild(a);
+                                URL.revokeObjectURL(url); // Limpia la URL del objeto
+                            });
+                        </script>
+                        <a id="downloadBtn4"><button class="btn btn-primary">Descargar GLB</button></a>
+
+                        <!-- Realmente no se como funciona esto -->
+                        <script>
+                            document.getElementById('downloadBtn4').addEventListener('click', function () {
+                                const contenido = 'Este es el contenido del archivo que se descargará.';
+                                const blob = new Blob([contenido], { type: 'text/plain' });
+                                const url = URL.createObjectURL(blob);
+
+                                const a = document.createElement('a');
+                                a.href = url;
+                                a.download = ""; // Nombre del archivo a descargar
+                                document.body.appendChild(a);
+                                a.click(); // Simula un clic en el enlace para descargar
+                                document.body.removeChild(a);
+                                URL.revokeObjectURL(url); // Limpia la URL del objeto
+                            });
+                        </script>
                     </div>
                 </div>
             </div>
@@ -233,7 +265,7 @@
                 <div class="card text-center">
                     <img src="https://via.placeholder.com/300" class="card-img-top img-fluid" alt="Imagen 9">
                     <div class="card-body">
-                        <h3 class="text-center mb-2">Investigación de Stack Overflow</h3>
+                        <h3 class="text-center mb-2">Placeholder</h3>
                         <button class="btn btn-primary">Botón 1</button>
                         <button class="btn btn-secondary">Botón 2</button>
                     </div>
