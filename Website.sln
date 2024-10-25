@@ -15,8 +15,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mi trabajo", "Mi trabajo", "{228521D8-645E-4A77-85C4-EC123115B46A}"
 	ProjectSection(SolutionItems) = preProject
 		Ahorcado.cpp = Ahorcado.cpp
-		Primera.html = Primera.html
 		Ahorcado.py = Ahorcado.py
+		Primera.html = Primera.html
+		Mi trabajo imagenes\VR1.jpg = Mi trabajo imagenes\VR1.jpg
+		Mi trabajo imagenes\VR2.jpg = Mi trabajo imagenes\VR2.jpg
+		Mi trabajo imagenes\VR3.png = Mi trabajo imagenes\VR3.png
 	EndProjectSection
 EndProject
 Global
